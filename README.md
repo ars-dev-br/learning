@@ -4,7 +4,7 @@ This is a repository where I'll commit code I write while I learn OCaml.
 Currently, I'm reading [Real World OCaml](https://realworldocaml.org/).  You
 should check it out if you interested in learning OCaml too.
 
-If you wondering if or why you should learn it, this
+If you're wondering if or why you should learn it, this
 [retrospective](http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective/)
 of porting [0install](http://0install.net) from Python to OCaml by Thomas
 Leonard might be a good start.
