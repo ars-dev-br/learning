@@ -1,0 +1,2 @@
+object ImplictConversions extends App {
+}
